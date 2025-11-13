@@ -1,3 +1,7 @@
+
+<p align="center">
+  <img src="Media/banner.png" alt="Okecbot® Developer Knowledge Base" width="800"/>
+</p>
 # Okecbot® Developer Knowledge Base
 
 [![Proprietary](https://img.shields.io/badge/Status-Proprietary-ff69b4.svg)]()
@@ -40,7 +44,7 @@ Welcome to the Okecbot® Developer Knowledge Base. This repository serves as the
 | `okecbot-web-user-client` | User dashboard | Private |
 | `okecbot-web-api` | Backend API services | Private |
 | `okecbot-marketplace-client` | P2P marketplace | Private |
-| `okecbot-compile-assets` | Build resources | Public |
+| `okecbot-compile-assets` | Build resources | Private |
 | `okecbot-public-library` | Documentation & resources | Public |
 
 ## 📜 Legal
