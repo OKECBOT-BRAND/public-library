@@ -1,13 +1,15 @@
 
-<p align="center">
-  <img src="Media/banner.png" alt="Okecbot® Developer Knowledge Base" width="800"/>
-</p>
 # Okecbot® Developer Knowledge Base
+
 
 [![Proprietary](https://img.shields.io/badge/Status-Proprietary-ff69b4.svg)]()
 [![Okecbot®](https://img.shields.io/badge/©-DCSSP-00b4d8.svg)]()
 
 **Proprietary Notice**: This repository and all its contents are the exclusive property of Dannyokec Cyber Security and Software Programming Limited (RC: 2006105). Okecbot® is a registered trademark.
+
+<p align="center">
+  <img src="Media/banner.png" alt="Okecbot® Developer Knowledge Base" width="800"/>
+</p>
 
 ## 📖 Introduction
 
@@ -32,7 +34,7 @@ Welcome to the Okecbot® Developer Knowledge Base. This repository serves as the
 
 ### 📝 Templates
 - [Issue Templates](issues-templates.md) - Standard templates for reporting issues
-- [Contribution Guidelines](contribution.md) - Detailed contribution process
+- [Contribution Guidelines](contributing.md) - Detailed contribution process
 
 ## 🏢 Organization Structure
 
