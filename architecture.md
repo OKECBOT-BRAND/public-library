@@ -85,7 +85,7 @@ The Okecbot ecosystem is composed of the following core components, each in its 
   - Live support tickets/chat
 
 
-### 3.7 okecbot-compile-assets (Public)
+### 3.7 okecbot-compile-assets (Private)
 - **Responsibility**: Build resources and binaries for compiling desktop app from source.
 
 ### 3.8 okecbot-public-library (Public)

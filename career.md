@@ -118,7 +118,6 @@ We're small, focused, and intentional. Every line of code you write ships to 10,
 ### Ready to Automate the Future?
 Email developers@okecbot.com with a pitch that makes us sign you up to our team.
 
-We hire for deliberate strength, not speed. If you ship clean code that scales to 1,000 profiles without breaking, we want you.
 
 *Okecbot Product Development Team | Abuja, Nigeria | Built by DCSSP*  
 *Last updated: November 07, 2025*
